@@ -2,9 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Carl Angelo Nievarez</title>
-    <link>http://example.org/tags/</link>
+    <link>https://iamcarl.vercel.app/tags/</link>
     <description>Recent content in Tags on Carl Angelo Nievarez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Sat, 18 Feb 2017 19:19:01 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms</title>
+      <link>https://iamcarl.vercel.app/tags/algorithms/</link>
+      <pubDate>Sat, 18 Feb 2017 19:19:01 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
