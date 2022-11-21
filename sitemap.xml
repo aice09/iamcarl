@@ -41,17 +41,29 @@
     <loc>https://iamcarl.vercel.app/posts/2020-04-29-subtyping/</loc>
     <lastmod>2020-04-29T09:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://iamcarl.vercel.app/posts/2020-03-13-getting-started-with-xampp/</loc>
+    <lastmod>2020-03-13T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/web-development/</loc>
+    <lastmod>2020-03-13T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/life/</loc>
+    <lastmod>2020-03-10T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/sml/</loc>
+    <lastmod>2020-03-10T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/posts/2019-12-30-standardml-notes/</loc>
+    <lastmod>2020-03-10T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/posts/2020-03-10-when-i-start-to-jump-into-programming/</loc>
+    <lastmod>2020-03-10T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://iamcarl.vercel.app/tags/racket/</loc>
     <lastmod>2020-02-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/posts/2020-02-29-racket/</loc>
     <lastmod>2020-02-29T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamcarl.vercel.app/tags/sml/</loc>
-    <lastmod>2019-12-30T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamcarl.vercel.app/posts/2019-12-30-standardml-notes/</loc>
-    <lastmod>2019-12-30T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/tags/rpa/</loc>
     <lastmod>2019-11-23T09:00:00+00:00</lastmod>
@@ -123,6 +135,9 @@
     <lastmod>2016-10-22T16:56:54+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/about/</loc>
+    <lastmod>2016-08-24T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/projects/</loc>
     <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url>
 </urlset>

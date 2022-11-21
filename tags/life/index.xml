@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Carl Angelo Nievarez</title>
+    <link>https://iamcarl.vercel.app/tags/life/</link>
+    <description>Recent content in Life on Carl Angelo Nievarez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Carl Angelo Nievarez</copyright>
+    <lastBuildDate>Tue, 10 Mar 2020 09:00:00 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When I Start To Jump Into Programming?</title>
+      <link>https://iamcarl.vercel.app/posts/2020-03-10-when-i-start-to-jump-into-programming/</link>
+      <pubDate>Tue, 10 Mar 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2020-03-10-when-i-start-to-jump-into-programming/</guid>
+      <description>Undirected Graphs Some problems Path Shortest path Cycle Ehler tour: A cycle that uses each edge excatly once. Hamilton tour: A cycle that uses each vertex exactly once classical NP-complete problem. Connectivity MST: Biconnectivity: A vertex whose removal disconnects the graph Planarity Graph isomorphism: Are two graphs identical? No one knows so far. A lonstanding open problem Representations Real-world graphs tend to be sparse (huge number of vertices, small average vertex degree).</description>
+    </item>
+    
+  </channel>
+</rss>

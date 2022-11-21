@@ -36,20 +36,38 @@
     </item>
     
     <item>
-      <title>racket</title>
-      <link>https://iamcarl.vercel.app/tags/racket/</link>
-      <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
+      <title>Web Development</title>
+      <link>https://iamcarl.vercel.app/tags/web-development/</link>
+      <pubDate>Fri, 13 Mar 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://iamcarl.vercel.app/tags/racket/</guid>
+      <guid>https://iamcarl.vercel.app/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://iamcarl.vercel.app/tags/life/</link>
+      <pubDate>Tue, 10 Mar 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SML</title>
       <link>https://iamcarl.vercel.app/tags/sml/</link>
-      <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2020 09:00:00 +0000</pubDate>
       
       <guid>https://iamcarl.vercel.app/tags/sml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racket</title>
+      <link>https://iamcarl.vercel.app/tags/racket/</link>
+      <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/racket/</guid>
       <description></description>
     </item>
     
