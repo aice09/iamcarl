@@ -7,13 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Nov 2022 17:51:42 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rhel</title>
+      <link>https://iamcarl.vercel.app/tags/rhel/</link>
+      <pubDate>Mon, 14 Nov 2022 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/rhel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vnc</title>
+      <link>https://iamcarl.vercel.app/tags/vnc/</link>
+      <pubDate>Mon, 14 Nov 2022 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/vnc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>test</title>
       <link>https://iamcarl.vercel.app/tags/test/</link>
       <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iamcarl.vercel.app/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text-editor</title>
+      <link>https://iamcarl.vercel.app/tags/text-editor/</link>
+      <pubDate>Wed, 21 Oct 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/text-editor/</guid>
       <description></description>
     </item>
     
@@ -90,11 +117,74 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>https://iamcarl.vercel.app/tags/git/</link>
+      <pubDate>Wed, 03 Apr 2019 21:08:52 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>https://iamcarl.vercel.app/tags/server/</link>
+      <pubDate>Wed, 03 Apr 2019 21:08:52 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://iamcarl.vercel.app/tags/markdown/</link>
+      <pubDate>Wed, 03 Apr 2019 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://iamcarl.vercel.app/tags/ruby/</link>
+      <pubDate>Wed, 03 Apr 2019 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static site generator</title>
+      <link>https://iamcarl.vercel.app/tags/static-site-generator/</link>
+      <pubDate>Wed, 03 Apr 2019 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vue.js</title>
       <link>https://iamcarl.vercel.app/tags/vue.js/</link>
       <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
       
       <guid>https://iamcarl.vercel.app/tags/vue.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bare Metal</title>
+      <link>https://iamcarl.vercel.app/tags/bare-metal/</link>
+      <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/bare-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container</title>
+      <link>https://iamcarl.vercel.app/tags/container/</link>
+      <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/tags/container/</guid>
       <description></description>
     </item>
     
@@ -108,11 +198,11 @@
     </item>
     
     <item>
-      <title>ruby</title>
-      <link>https://iamcarl.vercel.app/tags/ruby/</link>
-      <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
+      <title>VM</title>
+      <link>https://iamcarl.vercel.app/tags/vm/</link>
+      <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
       
-      <guid>https://iamcarl.vercel.app/tags/ruby/</guid>
+      <guid>https://iamcarl.vercel.app/tags/vm/</guid>
       <description></description>
     </item>
     

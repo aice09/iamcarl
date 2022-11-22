@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://iamcarl.vercel.app/</loc>
-    <lastmod>2021-06-27T09:00:00+00:00</lastmod>
+    <lastmod>2022-11-14T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/posts/</loc>
+    <lastmod>2022-11-14T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/rhel/</loc>
+    <lastmod>2022-11-14T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/</loc>
+    <lastmod>2022-11-14T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/vnc/</loc>
+    <lastmod>2022-11-14T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/posts/2022-11-14-xvnc-stopped/</loc>
+    <lastmod>2022-11-14T17:51:42+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/categories/</loc>
     <lastmod>2021-06-27T09:00:00+00:00</lastmod>
@@ -11,17 +26,17 @@
     <loc>https://iamcarl.vercel.app/posts/code-block-test/</loc>
     <lastmod>2021-06-27T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iamcarl.vercel.app/posts/</loc>
-    <lastmod>2021-06-27T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamcarl.vercel.app/tags/</loc>
-    <lastmod>2021-06-27T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iamcarl.vercel.app/categories/tech/</loc>
     <lastmod>2021-06-27T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/tags/test/</loc>
     <lastmod>2021-06-27T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/posts/2020-10-21-activating-sublime-text-3-with-100-percent-working-license-key/</loc>
+    <lastmod>2020-10-21T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/text-editor/</loc>
+    <lastmod>2020-10-21T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/tags/algorithms/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
@@ -83,6 +98,27 @@
     <loc>https://iamcarl.vercel.app/posts/2019-10-27-uipath/</loc>
     <lastmod>2019-10-27T09:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://iamcarl.vercel.app/tags/git/</loc>
+    <lastmod>2019-04-03T21:08:52+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/posts/2019-04-03-my-self-hosted-git-servers/</loc>
+    <lastmod>2019-04-03T21:08:52+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/server/</loc>
+    <lastmod>2019-04-03T21:08:52+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</loc>
+    <lastmod>2019-04-03T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/markdown/</loc>
+    <lastmod>2019-04-03T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/ruby/</loc>
+    <lastmod>2019-04-03T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/static-site-generator/</loc>
+    <lastmod>2019-04-03T17:51:42+00:00</lastmod>
+  </url><url>
     <loc>https://iamcarl.vercel.app/posts/2019-03-28-javascript-comparison/</loc>
     <lastmod>2019-03-28T09:00:00+00:00</lastmod>
   </url><url>
@@ -107,14 +143,23 @@
     <loc>https://iamcarl.vercel.app/posts/2017-02-18-hash/</loc>
     <lastmod>2017-02-18T19:19:01+00:00</lastmod>
   </url><url>
+    <loc>https://iamcarl.vercel.app/tags/bare-metal/</loc>
+    <lastmod>2017-01-11T18:39:17+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/container/</loc>
+    <lastmod>2017-01-11T18:39:17+00:00</lastmod>
+  </url><url>
     <loc>https://iamcarl.vercel.app/tags/php/</loc>
     <lastmod>2017-01-11T18:39:17+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/posts/2017-01-11-php-lambada/</loc>
     <lastmod>2017-01-11T18:39:17+00:00</lastmod>
   </url><url>
-    <loc>https://iamcarl.vercel.app/tags/ruby/</loc>
-    <lastmod>2016-12-08T22:54:49+00:00</lastmod>
+    <loc>https://iamcarl.vercel.app/posts/2017-01-11-undestanding-vm-containers-and-bare-metal/</loc>
+    <lastmod>2017-01-11T18:39:17+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/tags/vm/</loc>
+    <lastmod>2017-01-11T18:39:17+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/posts/2016-12-08-ruby-notes/</loc>
     <lastmod>2016-12-08T22:54:49+00:00</lastmod>
@@ -138,6 +183,9 @@
     <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url><url>
     <loc>https://iamcarl.vercel.app/projects/</loc>
+    <lastmod>2016-08-24T17:51:42+00:00</lastmod>
+  </url><url>
+    <loc>https://iamcarl.vercel.app/stacks/</loc>
     <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url>
 </urlset>

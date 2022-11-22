@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Carl Angelo Nievarez</title>
+    <link>https://iamcarl.vercel.app/tags/markdown/</link>
+    <description>Recent content in markdown on Carl Angelo Nievarez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Carl Angelo Nievarez</copyright>
+    <lastBuildDate>Wed, 03 Apr 2019 17:51:42 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Jekyll</title>
+      <link>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</link>
+      <pubDate>Wed, 03 Apr 2019 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</guid>
+      <description>What is Jekyll? Jekyll is a static site generator. It takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. You can even host your site for free on GitHub Pages.
+what language is jekyll written in? Jekyll is written in Ruby.
+Installing ruby Windows Download and install Ruby+Devkit. Run ridk install to install the Devkit and install all components.</description>
+    </item>
+    
+  </channel>
+</rss>

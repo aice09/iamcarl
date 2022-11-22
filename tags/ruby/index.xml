@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Thu, 08 Dec 2016 22:54:49 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2019 17:51:42 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Jekyll</title>
+      <link>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</link>
+      <pubDate>Wed, 03 Apr 2019 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</guid>
+      <description>What is Jekyll? Jekyll is a static site generator. It takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. You can even host your site for free on GitHub Pages.
+what language is jekyll written in? Jekyll is written in Ruby.
+Installing ruby Windows Download and install Ruby+Devkit. Run ridk install to install the Devkit and install all components.</description>
+    </item>
+    
     <item>
       <title>ruby学习笔记</title>
       <link>https://iamcarl.vercel.app/posts/2016-12-08-ruby-notes/</link>

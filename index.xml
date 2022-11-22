@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Nov 2022 17:51:42 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>xvnc stopped</title>
+      <link>https://iamcarl.vercel.app/posts/2022-11-14-xvnc-stopped/</link>
+      <pubDate>Mon, 14 Nov 2022 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2022-11-14-xvnc-stopped/</guid>
+      <description>after few days of waiting for installers from our supplier
+I finally got the chance to install customize rhel 5.11 on a workstation
+but when I tried to start vnc server
+it failed
+VNC server: [FAILED] but thanks to google and stackoverflow
+I found the solution
+removing the file X1 via rm -f /tmp/.X11-unix/X1 and restarting VNC server worked
+yildizabdullah
+[root@localhost ~]# rm -f /tmp/.X11-unix/X1 and then restart vnc server</description>
+    </item>
+    
     <item>
       <title>Code Block Test</title>
       <link>https://iamcarl.vercel.app/posts/code-block-test/</link>
@@ -19,6 +36,17 @@ Using indents:
 texttexttextFenced code block:
 texttext&amp;lt;tag&amp;gt; Fenced code block with language (lineNumbersInTable = false):
 1// JavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJavaJava 2public final class String 3 implements java.io.Serializable, Comparable&amp;lt;String&amp;gt;, CharSequence 4{ 5 /** The value is used for character storage. */ 6 private final char value[]; 7 8 /** The offset is the first index of the storage that is used. */ 9 private final int offset; 10 11 /** The count is the number of characters in the String.</description>
+    </item>
+    
+    <item>
+      <title>Activating Sublime Text 3 with 100% working license key</title>
+      <link>https://iamcarl.vercel.app/posts/2020-10-21-activating-sublime-text-3-with-100-percent-working-license-key/</link>
+      <pubDate>Wed, 21 Oct 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2020-10-21-activating-sublime-text-3-with-100-percent-working-license-key/</guid>
+      <description>:-)
+Look at this I found license key for my favorite text editor from here
+Key 1 – Build 3207 &amp;amp; Build 3211 ----- BEGIN LICENSE -----Member J2TeaMSingle User LicenseEA7E-1011316D7DA350E 1B8B0760 972F8B60 F3E64036B9B4E234 F356F38F 0AD1E3B7 0E9C5FADFA0A2ABE 25F65BD8 D51458E5 3923CE8087428428 79079A01 AA69F319 A1AF29A4A684C2DC 0B1583D4 19CBD290 217618CD5653E0A0 BACE3948 BB2EE45E 422D2C87DD9AF44B 99C49590 D2DBDEE1 75860FD28C8BB2AD B2ECE5A4 EFC08AF2 25A9B864------ END LICENSE ------Key 2 – Build 3176 ----- BEGIN LICENSE -----sgbteamSingle User LicenseEA7E-11532598891CBB9 F1513E4F 1A3405C1 A865D53F115F202E 7B91AB2D 0D2A40ED 352B269B76E84F0B CD69BFC7 59F2DFEF E267328F215652A3 E88F9D8F 4C38E3BA 5B2DAAE4969624E7 DC9CD4D5 717FB40C 1B9738CF20B3C4F1 E917B5B3 87C38D9C ACCE7DD85F7EF854 86B9743C FADC04AA FB0DA5C0F913BE58 42FEA319 F954EFDD AE881E0B------ END LICENSE ------Key 3 – Build 3141 —– BEGIN LICENSE —–TwitterInc200 User LicenseEA7E-8900071D77F72E 390CDD93 4DCBA022 FAF6079061AA12C0 A37081C5 D0316412 4584D13694D7F7D4 95BC8C1C 527DA828 560BB037D1EDDD8C AE7B379F 50C9D69D B35179EF2FE898C4 8E4277A8 555CE714 E1FB0E43D5D52613 C3D12E98 BC49967F 7652EED29D2D2E61 67610860 6D338B72 5CF95C69E36B85CC 84991F19 7575D828 470A92AB—— END LICENSE ——Key 4 – Build 390x + —– BEGIN LICENSE —–MinBanSingle User LicenseEA7E-806395318133A3 8F202A61 B0DBB8EB 21E17D2E97D540E6 34079344 54620650 71E475899EF87857 345F5042 0D728DD1 8D8C979D6A4F4DD2 67BB0345 746CA297 515BDA916CEAB381 4DB56700 D77DCD14 977BD3261AC309ED 0EB414B8 4730DA10 99DBD291FC88E0EF DCC7E3A9 56E4FFED 7629746BE529AECA 92A96B60 72AE8928 8A240AAC—— END LICENSE ——Key 5 – Build 3126 —– BEGIN LICENSE —–rikuSingle User LicenseEA7E-80699660C55C64D0195F15A118D93ECE0849B330C432F529F7BFAAF6568C6BFDDA1868D6DF14D0464281D64A7E2EBB32558D84148EF8041694AC00B9FA17D6119A6286611D11E26BB48DCF19F76CB1CC7B995EF41F7BFAB3348963FF69F163A70ABBEA2526B73B523AA28BF66AFEF3ED3D1D21BC6CB3B5B6D183FF5C755DE7007C6C41—— END LICENSE ——Key 6 – Build 3114 —– BEGIN LICENSE —–Michael BarnesSingle User LicenseEA7E-8213858A353C41 872A0D5C DF9B2950 AFF6F667C458EA6D 8EA3C286 98D1D650 131A97ABAA919AEC EF20E143 B361B1E7 4C8B7F04B085E65E 2F5F5360 8489D422 FB8FC1AA93F6323C FD7F7544 3F39C318 D95E6480FCCC7561 8A4A1741 68FA4223 ADCEDE07200C25BE DBBC4855 C4CFB774 C5EC138C0FEC1CEF D9DCECEC D3A5DAD1 01316C36—— END LICENSE ——● End ●</description>
     </item>
     
     <item>
@@ -149,6 +177,32 @@ URI-reference = [ absoluteURI | relativeURI ] [ &amp;#34;#&amp;#34; fragment ]a
 Array DataTime DataTable .Net 変数型を参照して探す方法
 アクティビティ レイアウトダイアグラム シーエンス：　より高度で複雑な自動化に向こう フローチャート：　シンプルな自動化プロジェクトに適している ステートマシン Global Exception Handler (グローバル例外ハンドラー) 参照：https://docs.uipath.com/studio/lang-ja/docs/workflow-design
 選択肢 条件分岐(If)：　シーケンス用条件分岐 フロー条件分岐(flow desicion)：　フローチャート用条件分岐 フロースイッチ (Flow Switch) 繰り返し 繰り返し（前判定）(While) 繰り返し（後判定）(Do While) 繰り返し（コレクションの各要素）(For Each) データ操作 CSVを読み込み(Read CSV) オプションにエンコーディングを指定できる（日本語データがある場合、&amp;quot;SHIFT-JIS&amp;quot;を指定する） 列名を含める(IncludeColumnNames)を指定できる 出力タイプ：System.Data.DataTable Microsoft Docs Selectメソッドで半角スペースを含む列名で指定する場合、半角スペースが特殊文字ではなく文字列として認識されるため、[]で列名を囲う Names.Select(&amp;#34;[メンバー ステータス] = &amp;#39;Yes&amp;#39;&amp;#34;) その他 メッセージボックス 代入(assign) 待機 (Delay) 入力ダイアログ（input dialog）: フォルダーを選択(Select Folder) 一行を書き込み(Write Line)：　Debug用？ アプリケーションを開く(Open Application) ブラウザを開く(Open Browser) ブラウザーにアタッチ(Attach Browser) 文字を入力(Type Into) ハイライト(Highlight) アンカーベース(Anchor Base) スクリーンショットをと撮る(Take Screenshot) 要素の有無を検出(Element Exists) 要素の消滅を待つ(Wait Element Vanish) レコーディング機能 [○]レコーディング可</description>
+    </item>
+    
+    <item>
+      <title>My Self Hosted Git Server</title>
+      <link>https://iamcarl.vercel.app/posts/2019-04-03-my-self-hosted-git-servers/</link>
+      <pubDate>Wed, 03 Apr 2019 21:08:52 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2019-04-03-my-self-hosted-git-servers/</guid>
+      <description>netfilter 与 iptables netfilter是 linux 默认的防火墙，在 2.4 之后的版本正式进入内核。netfilter 使用四个表(Table)来存放控制信息包过滤处理的规则集。每张表由链(Chain)组成，每条链又包含了多条规则(rule)。
+iptables是用来编辑操作这些表的一个工具。iptables包中也包含了针对 IPv6 的工具ip6tables。
+四个表及其包含的链：
+filter INPUT FORWARD OUTPUT nat PREROUTING POSTROUTING OUTPUT mangle PREROUTING INPUT FORWARD OUTPUT POSTROUTING raw PREROUTING OUTPUT filter 机制 filter是netfilter中最重要的机制，其任务是执行数据包的过滤操作。具有三种内建链：
+INPUT - 来自外部的数据包（访问本机） OUTPUT - 发往外部的数据包（本机访问外部） FORWORD - “路过”本机的数据包，转发到其他设备 链中规则的匹配方式遵循first match。filter会根据数据包特征从相应链中的第一条规则开始逐一进行匹配。只要遇到满足特征的规则后便不再继续。 每条链在最底端都定义了默认规则。默认规则只会有一种状态：ACCEPT或者DROP。默认为ACCEPT。
+iptables 命令参数 格式：
+iptables -操作方式 [链名] [条件匹配] [选项]iptables -[ACD] chain rule-specification [options]iptables -I chain [rulenum] rule-specification [options]iptables -R chain rulenum rule-specification [options]iptables -D chain rulenum [options]iptables -[LS] [chain [rulenum]] [options]iptables -[FZ] [chain] [options]iptables -[NX] chainiptables -E old-chain-name new-chain-nameiptables -P chain target [options]iptables -h (print this help information) 常用操作方式：</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Jekyll</title>
+      <link>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</link>
+      <pubDate>Wed, 03 Apr 2019 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</guid>
+      <description>What is Jekyll? Jekyll is a static site generator. It takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. You can even host your site for free on GitHub Pages.
+what language is jekyll written in? Jekyll is written in Ruby.
+Installing ruby Windows Download and install Ruby+Devkit. Run ridk install to install the Devkit and install all components.</description>
     </item>
     
     <item>
@@ -288,6 +342,20 @@ b的较好取值为31，33，37，39，41。在 java String 类中 b 取31。
     </item>
     
     <item>
+      <title>Understanding VM, Containers and Bare Metal</title>
+      <link>https://iamcarl.vercel.app/posts/2017-01-11-undestanding-vm-containers-and-bare-metal/</link>
+      <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2017-01-11-undestanding-vm-containers-and-bare-metal/</guid>
+      <description>闭包和匿名函数在PHP 5.3.0引入，并且 PHP 将两者视为相同的概念。闭包其实是伪装成函数的对象，它的实质其实是Closure实例。
+创建闭包非常简单：
+1$c = function($name) { 2 return sprintf(&amp;#34;Hello World! Hello %s!&amp;#34;, $name); 3}; 4 5echo $c(&amp;#39;PHP&amp;#39;); 使用use对闭包附加状态，多个参数使用,分隔：
+1function callPerson($name) { 2 return function($about) use ($name) { 3 return sprintf(&amp;#34;%s, %s&amp;#34;, $name, $about); 4 } 5} 6 7$triver = callPerson(&amp;#39;Triver&amp;#39;); 8echo $triver(&amp;#34;slow down, please!!&amp;#34;); 附加的变量会被封装到闭包内，即使返回的闭包队形已经跳出了callPerson()的作用域也仍然会记住$name的值。
+闭包有一个有趣的bindTo()方法，可以将闭包的内部状态绑定到其他对象上，第二个参数指定了绑定闭包的对象所属的类，从而实现在闭包中访问绑定对象的私有方法和属性。
+1class Bind { 2 protected $name = &amp;#39;no name&amp;#39;; 3 public $change; 4 5 public function addAction($action) { 6 $this-&amp;gt;change = $action-&amp;gt;bindTo($this, __CLASS__); 7 } 8} 9 10$bind = new Bind(); 11$bind-&amp;gt;addAction(function() { 12 $this-&amp;gt;name = &amp;#34;php&amp;#34;; 13 return $this-&amp;gt;name; 14 }); 15 16$change = $bind-&amp;gt;change; 17echo $change(); 使用这个特性可以方便的为类添加方法并绑定：</description>
+    </item>
+    
+    <item>
       <title>ruby学习笔记</title>
       <link>https://iamcarl.vercel.app/posts/2016-12-08-ruby-notes/</link>
       <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
@@ -373,6 +441,20 @@ I had a lot of free time before college. Nowadays, I occasionally write answers 
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
       
       <guid>https://iamcarl.vercel.app/projects/</guid>
+      <description>rogvue creator 2022 - present
+This is a manga website using VuePress.
+dinetogether_calc creator 2021 - 2022
+This is a calculator of investment returns for a group of people who want to invest together in is a NFT restaurant game called Dine Together.
+php_zklib contributor 2019
+PHP library to interacts with ZK Time and Attendance Devices.</description>
+    </item>
+    
+    <item>
+      <title>Stacks</title>
+      <link>https://iamcarl.vercel.app/stacks/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/stacks/</guid>
       <description>rogvue creator 2022 - present
 This is a manga website using VuePress.
 dinetogether_calc creator 2021 - 2022
