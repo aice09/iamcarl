@@ -2,18 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Carl Angelo Nievarez</title>
-    <link>http://localhost:1313/tags/life/</link>
+    <link>https://iamcarl.vercel.app/tags/life/</link>
     <description>Recent content in Life on Carl Angelo Nievarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 09:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 09:00:00 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>introvert</title>
+      <link>https://iamcarl.vercel.app/posts/2022-11-30-introvert/</link>
+      <pubDate>Wed, 30 Nov 2022 09:00:00 +0000</pubDate>
+      
+      <guid>https://iamcarl.vercel.app/posts/2022-11-30-introvert/</guid>
+      <description>I think this is me:
+I&amp;rsquo;m an introvert. I&amp;rsquo;m not shy and I&amp;rsquo;m not stuck. I&amp;rsquo;m just listening and observing. I&amp;rsquo;m very straightforward and you know that. I can&amp;rsquo;t stand small talks, but if I find something that interest me, I can talk about it for hours. I really, really enjoy my own company, so if I open up to you, it just means that you&amp;rsquo;re special. So please! Don&amp;rsquo;t miss that opportunity.</description>
+    </item>
+    
     <item>
       <title>When I Start To Jump Into Programming?</title>
-      <link>http://localhost:1313/posts/2020-03-10-when-i-start-to-jump-into-programming/</link>
+      <link>https://iamcarl.vercel.app/posts/2020-03-10-when-i-start-to-jump-into-programming/</link>
       <pubDate>Tue, 10 Mar 2020 09:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-03-10-when-i-start-to-jump-into-programming/</guid>
+      <guid>https://iamcarl.vercel.app/posts/2020-03-10-when-i-start-to-jump-into-programming/</guid>
       <description>Undirected Graphs Some problems Path Shortest path Cycle Ehler tour: A cycle that uses each edge excatly once. Hamilton tour: A cycle that uses each vertex exactly once classical NP-complete problem. Connectivity MST: Biconnectivity: A vertex whose removal disconnects the graph Planarity Graph isomorphism: Are two graphs identical? No one knows so far. A lonstanding open problem Representations Real-world graphs tend to be sparse (huge number of vertices, small average vertex degree).</description>
     </item>
     

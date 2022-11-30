@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Container on Carl Angelo Nievarez</title>
-    <link>http://localhost:1313/tags/container/</link>
+    <link>https://iamcarl.vercel.app/tags/container/</link>
     <description>Recent content in Container on Carl Angelo Nievarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Wed, 11 Jan 2017 18:39:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2017 18:39:17 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/container/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding VM, Containers and Bare Metal</title>
-      <link>http://localhost:1313/posts/2017-01-11-undestanding-vm-containers-and-bare-metal/</link>
+      <link>https://iamcarl.vercel.app/posts/2017-01-11-undestanding-vm-containers-and-bare-metal/</link>
       <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-01-11-undestanding-vm-containers-and-bare-metal/</guid>
+      <guid>https://iamcarl.vercel.app/posts/2017-01-11-undestanding-vm-containers-and-bare-metal/</guid>
       <description>闭包和匿名函数在PHP 5.3.0引入，并且 PHP 将两者视为相同的概念。闭包其实是伪装成函数的对象，它的实质其实是Closure实例。
 创建闭包非常简单：
 1$c = function($name) { 2 return sprintf(&amp;#34;Hello World! Hello %s!&amp;#34;, $name); 3}; 4 5echo $c(&amp;#39;PHP&amp;#39;); 使用use对闭包附加状态，多个参数使用,分隔：

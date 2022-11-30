@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>php on Carl Angelo Nievarez</title>
-    <link>http://localhost:1313/tags/php/</link>
+    <link>https://iamcarl.vercel.app/tags/php/</link>
     <description>Recent content in php on Carl Angelo Nievarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Tue, 22 Nov 2022 21:08:52 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Nov 2022 21:08:52 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PHP Repository Manager</title>
-      <link>http://localhost:1313/posts/2020-05-04-php-repository-managers/</link>
+      <link>https://iamcarl.vercel.app/posts/2020-05-04-php-repository-managers/</link>
       <pubDate>Tue, 22 Nov 2022 21:08:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2020-05-04-php-repository-managers/</guid>
+      <guid>https://iamcarl.vercel.app/posts/2020-05-04-php-repository-managers/</guid>
       <description>netfilter 与 iptables netfilter是 linux 默认的防火墙，在 2.4 之后的版本正式进入内核。netfilter 使用四个表(Table)来存放控制信息包过滤处理的规则集。每张表由链(Chain)组成，每条链又包含了多条规则(rule)。
 iptables是用来编辑操作这些表的一个工具。iptables包中也包含了针对 IPv6 的工具ip6tables。
 四个表及其包含的链：
@@ -25,10 +25,10 @@ iptables -操作方式 [链名] [条件匹配] [选项]iptables -[ACD] chain ru
     
     <item>
       <title>php的闭包特性</title>
-      <link>http://localhost:1313/posts/2017-01-11-php-lambada/</link>
+      <link>https://iamcarl.vercel.app/posts/2017-01-11-php-lambada/</link>
       <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-01-11-php-lambada/</guid>
+      <guid>https://iamcarl.vercel.app/posts/2017-01-11-php-lambada/</guid>
       <description>闭包和匿名函数在PHP 5.3.0引入，并且PHP将两者视为相同的概念。闭包其实是伪装成函数的对象，它的实质其实是Closure实例。
 创建闭包非常简单：
 1$c = function($name) { 2 return sprintf(&amp;#34;Hello World! Hello %s!&amp;#34;, $name); 3}; 4 5echo $c(&amp;#39;PHP&amp;#39;); 使用use对闭包附加状态，多个参数使用,分隔：
@@ -39,10 +39,10 @@ iptables -操作方式 [链名] [条件匹配] [选项]iptables -[ACD] chain ru
     
     <item>
       <title>composer中的autoload</title>
-      <link>http://localhost:1313/posts/2016-11-05-php-composer-autoload/</link>
+      <link>https://iamcarl.vercel.app/posts/2016-11-05-php-composer-autoload/</link>
       <pubDate>Sat, 05 Nov 2016 02:42:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016-11-05-php-composer-autoload/</guid>
+      <guid>https://iamcarl.vercel.app/posts/2016-11-05-php-composer-autoload/</guid>
       <description>composer的autoload可以轻松的实现php的自动加载。在composer.json中添加autoload字段即可。当前支持 PSR-0 PSR-4 classmap解析和files包含。官方推荐PSR-4标准（添加类时不需要重新生成加载器）。
 PSR-4 Under the psr-4 key you define a mapping from namespaces to paths, relative to the package root. When autoloading a class like Foo\\Bar\\Baz a namespace prefix Foo\\ pointing to a directory src/ means that the autoloader will look for a file named src/Bar/Baz.php and include it if present. Note that as opposed to the older PSR-0 style, the prefix (Foo\\) is not present in the file path.</description>
     </item>
