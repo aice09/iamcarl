@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rhel on Carl Angelo Nievarez</title>
-    <link>https://iamcarl.vercel.app/tags/rhel/</link>
+    <link>http://localhost:1313/tags/rhel/</link>
     <description>Recent content in rhel on Carl Angelo Nievarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Mon, 14 Nov 2022 17:51:42 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Nov 2022 17:51:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>xvnc stopped</title>
-      <link>https://iamcarl.vercel.app/posts/2022-11-14-xvnc-stopped/</link>
+      <link>http://localhost:1313/posts/2022-11-14-xvnc-stopped/</link>
       <pubDate>Mon, 14 Nov 2022 17:51:42 +0000</pubDate>
       
-      <guid>https://iamcarl.vercel.app/posts/2022-11-14-xvnc-stopped/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-xvnc-stopped/</guid>
       <description>after few days of waiting for installers from our supplier
 I finally got the chance to install customize rhel 5.11 on a workstation
 but when I tried to start vnc server

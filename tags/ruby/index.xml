@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ruby on Carl Angelo Nievarez</title>
-    <link>https://iamcarl.vercel.app/tags/ruby/</link>
+    <link>http://localhost:1313/tags/ruby/</link>
     <description>Recent content in ruby on Carl Angelo Nievarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carl Angelo Nievarez</copyright>
-    <lastBuildDate>Wed, 03 Apr 2019 17:51:42 +0000</lastBuildDate><atom:link href="https://iamcarl.vercel.app/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2019 17:51:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Jekyll</title>
-      <link>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</link>
+      <link>http://localhost:1313/posts/2019-04-03-getting-started-with-jekyll/</link>
       <pubDate>Wed, 03 Apr 2019 17:51:42 +0000</pubDate>
       
-      <guid>https://iamcarl.vercel.app/posts/2019-04-03-getting-started-with-jekyll/</guid>
+      <guid>http://localhost:1313/posts/2019-04-03-getting-started-with-jekyll/</guid>
       <description>What is Jekyll? Jekyll is a static site generator. It takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. You can even host your site for free on GitHub Pages.
 what language is jekyll written in? Jekyll is written in Ruby.
 Installing ruby Windows Download and install Ruby+Devkit. Run ridk install to install the Devkit and install all components.</description>
@@ -21,10 +21,10 @@ Installing ruby Windows Download and install Ruby+Devkit. Run ridk install to in
     
     <item>
       <title>ruby学习笔记</title>
-      <link>https://iamcarl.vercel.app/posts/2016-12-08-ruby-notes/</link>
+      <link>http://localhost:1313/posts/2016-12-08-ruby-notes/</link>
       <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
       
-      <guid>https://iamcarl.vercel.app/posts/2016-12-08-ruby-notes/</guid>
+      <guid>http://localhost:1313/posts/2016-12-08-ruby-notes/</guid>
       <description>regular expressions =~是用于正则表达式的匹配操作符。返回匹配到的字符串位置或nil。
 1&amp;#34;abcdef&amp;#34; =~ /d/ # return 3 2&amp;#34;aaaaaa&amp;#34; =~ /d/ # return nil !和? The exclamation point (!, sometimes pronounced aloud as &amp;ldquo;bang!&amp;rdquo;) indicates something potentially destructive, that is to say, something that can change the value of what it touches.
 ruby&amp;gt; s1 = &amp;#34;forth&amp;#34;&amp;#34;forth&amp;#34;ruby&amp;gt; s1.chop! # This changes s1.&amp;#34;fort&amp;#34;ruby&amp;gt; s2 = s1.chop # This puts a changed copy in s2,&amp;#34;for&amp;#34;ruby&amp;gt; s1 # .</description>

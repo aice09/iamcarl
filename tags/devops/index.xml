@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devops on Carl Angelo Nievarez</title>
+    <link>http://localhost:1313/tags/devops/</link>
+    <description>Recent content in devops on Carl Angelo Nievarez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Carl Angelo Nievarez</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding DevOps</title>
+      <link>http://localhost:1313/posts/2020-06-06-understanding-devops/</link>
+      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2020-06-06-understanding-devops/</guid>
+      <description>DevOps is a set of practices that combines software development (Dev) and information technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+DevOps is a culture, a movement, and a way of working. It is a set of practices that combines software development (Dev) and information technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.</description>
+    </item>
+    
+  </channel>
+</rss>
